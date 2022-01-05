@@ -1,7 +1,7 @@
 ### Olá! Sou o Erick Souza
 - 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando Java
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/DevEriick">
