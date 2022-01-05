@@ -1,6 +1,6 @@
 ### Olá! Sou o Erick Souza
 - 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualemente Focado em Programação Java
+- 🌱 Atualmente Focado em Programação Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
