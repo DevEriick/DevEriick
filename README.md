@@ -1,6 +1,6 @@
 ### Olá! Sou o Erick Souza
-- 🖥️ Desenvolvedor Back-End
-- 🌱 Estudando Java
+- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualemente Focado em Programação Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
